@@ -1,2 +1,0 @@
-#java
-Programs from SoftUni
